@@ -21,12 +21,42 @@
 
 **Authors**: Xinyi Zhao, Aliakbar Akbaritabar, Ridhi Kashyap, Emilio Zagheni
 
-**DOI**: XXX-XXX-XXX
+**DOI**: 10.1073/pnas.2214664120
 
 **Publication venue and date**: Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2023
 
 **Abstract**:
 Although considerable progress toward gender equality in science has been made in recent decades, female researchers continue to face significant barriers in the academic labor market. International mobility has been increasingly recognized as a strategy for scientists to expand their professional networks, and that could help narrow the gender gap in academic careers. Using bibliometric data on over 33 million Scopus publications, we provide the first global and dynamic view of gendered patterns of transnational scholarly mobility, as measured by volume, distance, diversity and distribution, from 1998 to 2017. We find that while female researchers continued to be under-represented among internationally mobile researchers and migrate over shorter distances, this gender gap was narrowing at a faster rate than the gender gap in the population of general active researchers. Globally, the origin and destination countries of both female and male mobile researchers became increasingly diversified, which suggests that scholarly migration has become less skewed and more globalized. However, the range of origin and destination countries continued to be narrower for women than for men. While the US remained the leading academic destination worldwide, the shares of both female and male scholarly inflows to that country declined from around 25% to 20% over the study period, partially due to the growing relevance of China. This study offers a cross-national measurement of gender inequality in global scholarly migration that is essential for promoting gender-equitable science policies, and for monitoring the impact of such interventions.
+
+## How to cite
+
+If you use the data in this repository, please cite our publication using the following APA style or BibTex information.
+
+### APA style
+
+```
+Zhao, X., Akbaritabar, A., Kashyap, R., & Zagheni, E. (2023). A gender perspective on the global migration of scholars. Proceedings of the National Academy of Sciences, 120(10), e2214664120. https://doi.org/10.1073/pnas.2214664120
+```
+
+### BibTex handle
+
+```BibTeX
+@article{zhao2023GenderPerspectiveGlobal,
+    title = {A gender perspective on the global migration of scholars},
+    volume = {120},
+    copyright = {All rights reserved},
+    url = {https://www.pnas.org/doi/10.1073/pnas.2214664120},
+    doi = {10.1073/pnas.2214664120},
+    abstract = {Although considerable progress toward gender equality in science has been made in recent decades, female researchers continue to face significant barriers in the academic labor market. International mobility has been increasingly recognized as a strategy for scientists to expand their professional networks, and that could help narrow the gender gap in academic careers. Using bibliometric data on over 33 million Scopus publications, we provide a global and dynamic view of gendered patterns of transnational scholarly mobility, as measured by volume, distance, diversity, and distribution, from 1998 to 2017. We find that, while female researchers continued to be underrepresented among internationally mobile researchers and migrate over shorter distances, this gender gap was narrowing at a faster rate than the gender gap in the population of general active researchers. Globally, the origin and destination countries of both female and male mobile researchers became increasingly diversified, which suggests that scholarly migration has become less skewed and more globalized. However, the range of origin and destination countries continued to be narrower for women than for men. While the United States remained the leading academic destination worldwide, the shares of both female and male scholarly inflows to that country declined from around 25\% to 20\% over the study period, partially due to the growing relevance of China. This study offers a cross-national measurement of gender inequality in global scholarly migration that is essential for promoting gender-equitable science policies and for monitoring the impact of such interventions.},
+    number = {10},
+    urldate = {2023-02-27},
+    journal = {Proceedings of the National Academy of Sciences},
+    author = {Zhao, Xinyi and Akbaritabar, Aliakbar and Kashyap, Ridhi and Zagheni, Emilio},
+    month = mar,
+    year = {2023},
+    pages = {e2214664120}
+}
+```
 
 ## Description of the files
 
